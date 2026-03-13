@@ -1,0 +1,23 @@
+Artificial Intelligence - Overview and Key Concepts
+
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines that are programmed to think and learn. The term was coined by John McCarthy in 1956 at the Dartmouth Conference, which is considered the birth of AI as a field.
+
+Types of AI:
+1. Narrow AI (Weak AI): Designed for a specific task. Examples include Siri, Alexa, chess engines, and recommendation systems on Netflix or YouTube. All current AI systems are narrow AI.
+2. General AI (Strong AI): Hypothetical AI that can perform any intellectual task a human can do. This does not yet exist.
+3. Super AI: Hypothetical AI surpassing human intelligence in all aspects. Still theoretical.
+
+Key Subfields:
+- Machine Learning (ML): A subset of AI where systems learn from data without being explicitly programmed. Instead of hardcoded rules, ML models improve through experience.
+- Deep Learning: A subset of ML using neural networks with many layers (hence "deep"). It powers image recognition, speech processing, and large language models.
+- Natural Language Processing (NLP): Enables machines to understand and generate human language. Powers chatbots, translators, and tools like ChatGPT.
+- Computer Vision: Enables machines to interpret visual information from the world, used in self-driving cars and medical imaging.
+
+Large Language Models (LLMs):
+LLMs like GPT-4, Llama, and Mistral are trained on massive amounts of text data. They can generate coherent text, answer questions, write code, and summarize documents. They work by predicting the next word in a sequence based on context.
+
+RAG (Retrieval-Augmented Generation):
+RAG is a technique that enhances LLMs by combining them with a retrieval system. Instead of relying solely on training data, RAG retrieves relevant information from a knowledge base at query time and feeds it to the LLM. This makes responses more accurate, up-to-date, and grounded in specific documents.
+
+Ethical Concerns:
+AI raises many ethical concerns including job displacement, bias in algorithms, privacy violations, deepfakes, and the risk of autonomous weapons. Organizations like the Partnership on AI and governments worldwide are working on AI safety regulations.

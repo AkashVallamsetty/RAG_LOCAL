@@ -1,0 +1,9 @@
+# Virtual environment
+venv/
+
+# Auto-generated vector database (recreated by running ingest.py)
+chroma_db/
+
+# Python bytecode
+__pycache__/
+*.pyc
